@@ -1,0 +1,6 @@
+django 
+djangorestframework # creacion de apis
+djangorestframework-simplejwt # token de autenticacion
+drf_spectacular # para la intefaz grafica
+drf_extensions # crear las urls de manera rapida
+
